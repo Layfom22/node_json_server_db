@@ -1,0 +1,98 @@
+{
+  "profesores": [
+    {
+      "nombre": "Sergie",
+      "apellido": "Code",
+      "materias": [
+        {
+          "nombre": "NodeJS desde cero"
+        },
+        {
+          "nombre": "NodeJS desde uno"
+        },
+        {
+          "nombre": "NodeJS desde dos"
+        }
+      ],
+      "id": "f2d9"
+    },
+    {
+      "id": "ade2",
+      "nombre": "Alejandro Segundo",
+      "apellido": "Dev Actualizado x PATCH",
+      "materias": [
+        {
+          "nombre": "NodeJS desde 6"
+        },
+        {
+          "nombre": "NodeJS desde 7"
+        },
+        {
+          "nombre": "NodeJS desde 8"
+        }
+      ]
+    },
+    {
+      "id": "ba06",
+      "nombre": "Alejandro",
+      "apellido": "Dev",
+      "materias": [
+        {
+          "nombre": "NodeJS desde 3"
+        },
+        {
+          "nombre": "NodeJS desde 4"
+        },
+        {
+          "nombre": "NodeJS desde 5"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Roger",
+      "apellido": "Cabezudo",
+      "edad": 31,
+      "sexo": "Male",
+      "promedio": 8.2,
+      "id": "73c6"
+    },
+    {
+      "nombre": "Angel",
+      "apellido": "Cabezudo",
+      "edad": 33,
+      "sexo": "Male",
+      "promedio": 5,
+      "id": "3ec1"
+    },
+    {
+      "nombre": "Teresa",
+      "apellido": "Cabezudo",
+      "edad": 28,
+      "sexo": "Female",
+      "promedio": 7,
+      "id": "3841"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS desde cero",
+      "duracion": 5,
+      "dificultad": "Intermedia",
+      "id": "8ad2"
+    },
+    {
+      "nombre": "NodeJS desde uno",
+      "duracion": 6,
+      "dificultad": "Intermedia",
+      "id": "97c1"
+    },
+    {
+      "nombre": "NodeJS desde dos",
+      "duracion": 8,
+      "dificultad": "alta",
+      "id": "e37a"
+    }
+  ]
+}
